@@ -1,6 +1,6 @@
 # SPM-Group-F
 
-Group project for Group F
+Group project 
 
 ## Playing the game
 
