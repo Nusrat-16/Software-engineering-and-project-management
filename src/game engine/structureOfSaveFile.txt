@@ -1,0 +1,48 @@
+X = Player
+O = Ai
+- = blank
+
+var saveFile = '{
+"ai_markers_left":"4", 
+"map": '{
+	a_nodes : '{
+		"a1" : "X",
+		"a4" : "-",
+		"a7" : "O"
+	}'
+	b_nodes : '{
+		"b2" : "X",
+		"b4" : "-",
+		"b6" : "O"
+	}'
+	c_nodes : '{
+		"c3" : "X",
+		"c4" : "-",
+		"c5" : "O"
+	}'
+	d_nodes : '{
+		"d1" : "X",
+		"d2" : "X",
+		"d3" : "-",
+		"d5" : "O",
+		"d6" : "X",
+		"d7" : "O"
+	}'
+	e_nodes : '{
+		"e3" : "X",
+		"e4" : "-",
+		"e5" : "O"
+	}'
+	f_nodes : '{
+		"f2" : "X",
+		"f4" : "-",
+		"f6" : "O"
+	}'
+	g_nodes : '{
+		"g1" : "X",
+		"g4" : "-",
+		"g7" : "O"
+	}'
+}', 
+"ai_previous_move": ["a1", "d1"]
+}';
