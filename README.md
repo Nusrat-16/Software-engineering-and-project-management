@@ -1,5 +1,7 @@
-# Software-engineering-and-project-management
-Group project for a course
+# SPM-Group-F
 
-Playing the game
+Group project for Group F
+
+## Playing the game
+
 To play the game, run main.py in the source directory with python 3
